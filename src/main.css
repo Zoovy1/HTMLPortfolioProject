@@ -5,6 +5,7 @@ body {
 .header {
   background-color: #5f5f5f;
   background-image: url(images/keyboard.jpg);
+  background-size: 100% 1000px;
   width: auto;
   padding-top: 75px;
   padding-bottom: 75px;
