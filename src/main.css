@@ -25,6 +25,14 @@
   color: #FFFFFF;
 }
 
+.contact {
+  text-align: left;
+  background-color: #D3D3D3;
+  padding: 25px;
+  margin-top: auto;
+  color: #000000;
+}
+
 h1 {
   font-size: 60px;
 }
