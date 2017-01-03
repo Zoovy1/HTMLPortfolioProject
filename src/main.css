@@ -1,8 +1,5 @@
-body {
-  text-align: center;
-}
-
 .header {
+  text-align: center;
   background-color: #5f5f5f;
   background-image: url(images/keyboard.jpg);
   background-size: 100% 100%;
@@ -11,6 +8,15 @@ body {
   margin: 0;
   font-weight: 100;
   color: #FFFFFF;
+}
+
+.tagline {
+  text-align: left;
+  background-color: #D3D3D3;
+}
+
+.tagline h3 {
+  font-weight: bold;
 }
 
 h1 {
